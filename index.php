@@ -43,7 +43,7 @@ class Employee
     }
 }
 
-// Create a Person object
+// Create a Employee object
 $employee = new Employee("Rakib", 24, 30000);
 
 // Access and display the name and age
